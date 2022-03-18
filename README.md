@@ -1,13 +1,11 @@
-# mcdecomp
-
-![](https://vinc3nz.rick-roll.xyz/n49q)
+![mcdecomp banner](https://raw.githubusercontent.com/vinc3nz/vinc3nz/main/mcdecomp/mcdecomp_banner1.png) 
 
 A tool to Decompile modern Minecraft versions (1.15.x - latest) 
 
 ## System requirements
 
-- Java installed (Java 17+ for Minecraft 1.18.x )
-- To run you need at least Java 8
+- Java installed (Java 16+, for never Minecraft versions, you need newer Java versions)
+- To run you need at least Java 16
 - About 1GB Disk Space
 - Internet
 
@@ -29,10 +27,6 @@ The mapped and decompiled code is in a folder with the version name, e.g. ./1.18
 
 ## License
 
-```
-You are allowed to use this tool in any way, as long as it does not complain with the Mojang EULA.
-You are not allowed to share the code of this tool in any way. Sharing the Repository-Link is allowed. Repost are not allowed.
-I (vinc3nz) am not responsible for any illegal things made with this tool. I am not responsible for any damage on your computer which is caused trough this tool.
-```
+This software is licensed under the *Microsoft Public License*(*ms-pl*). You can find a copy [here](https://opensource.org/licenses/MS-PL). 
 
 *I am not affiliated with Mojang/Microsoft/Minecraft in any way.*
